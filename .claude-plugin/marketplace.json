@@ -1,0 +1,11 @@
+{
+  "name": "token-heatmap",
+  "owner": { "name": "aria-vibe" },
+  "plugins": [
+    {
+      "name": "token-heatmap",
+      "source": "./",
+      "description": "A pane with a GitHub-style heatmap of your Claude Code token usage over the past month or 6 months"
+    }
+  ]
+}

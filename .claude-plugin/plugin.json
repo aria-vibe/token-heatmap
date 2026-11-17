@@ -1,0 +1,9 @@
+{
+  "name": "token-heatmap",
+  "version": "0.1.0",
+  "description": "A pane with a GitHub-style heatmap of your Claude Code token usage over the past month or 6 months",
+  "author": { "name": "aria-vibe" },
+  "repository": "https://github.com/aria-vibe/token-heatmap",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
